@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbc:home|Door43 (mbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbc|d43-mbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbc/archive/master.zip|d43-mbc.zip]]
+
+**Recent Changes**
+{{changes>ns = mbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbc|Ethnologue data]]
+
